@@ -95,7 +95,7 @@ public class prog {
 ```
 
 ## OUTPUT:
-<img width="716" height="249" alt="image" src="https://github.com/user-attachments/assets/e3b8c5f1-786a-4fe4-ba25-01304b1bb8bb" />
+<img width="605" height="204" alt="image" src="https://github.com/user-attachments/assets/083a97fe-77ab-4994-91f5-74a35a786eb1" />
 
 ## RESULT:
 The program successfully demonstrates abstraction and inheritance by computing the final score for different game types using subclass-specific logic.
