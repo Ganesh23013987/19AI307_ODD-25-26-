@@ -59,7 +59,7 @@ public class Main {
 ```
 
 ## OUTPUT:
-<img width="558" height="590" alt="image" src="https://github.com/user-attachments/assets/0d53717f-affe-4aaf-b448-35ef728bee48" />
+<img width="738" height="484" alt="image" src="https://github.com/user-attachments/assets/876daa06-86a6-4563-bfa0-4b87142e825b" />
 
 ## RESULT:
 Therefore the program successfully searches the array for the given element.
