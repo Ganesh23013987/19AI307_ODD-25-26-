@@ -78,7 +78,7 @@ class prog {
 
 
 ## OUTPUT:
-<img width="622" height="725" alt="image" src="https://github.com/user-attachments/assets/750366d8-867f-45bc-b9df-dbd77777763d" />
+<img width="492" height="582" alt="image" src="https://github.com/user-attachments/assets/7040d6ff-0453-4b99-97cb-1ced88b04df1" />
 
 
 ## RESULT:
