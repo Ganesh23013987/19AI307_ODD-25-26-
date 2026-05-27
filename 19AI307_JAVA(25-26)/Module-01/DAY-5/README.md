@@ -38,6 +38,7 @@ public class demo
         System.out.println("Absolute value = "+Math.abs(n));
     }
 }
+
 ```
 
 ## OUTPUT:
