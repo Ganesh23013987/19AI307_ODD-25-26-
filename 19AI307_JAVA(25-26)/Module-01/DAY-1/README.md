@@ -52,6 +52,7 @@ public class Main
         System.out.printf("Your favorite number is %.2f ",num);
     }
 }
+
 ```
 
 
