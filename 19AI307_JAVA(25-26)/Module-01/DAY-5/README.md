@@ -41,7 +41,7 @@ public class demo
 ```
 
 ## OUTPUT:
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/64327455-412c-43c8-8852-e77edb4e1e14" />
+<img width="673" height="241" alt="image" src="https://github.com/user-attachments/assets/3da43a7d-d3dd-4ed9-a99a-5f1b2e15c015" />
 
 
 
